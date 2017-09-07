@@ -22,7 +22,7 @@ s.homepage         = "https://github.com/HebeTienCoder/XLPlainFlowLayout"
 
 s.license          = 'MIT'
 s.author           = { "NirvanAcN" => "mahaomeng@gmail.com" }
-s.source           = { :git => "git@github.com:NirvanAcN/XLPlainFlowLayout.git", :tag => s.version.to_s }
+s.source           = { :git => "https://github.com/NirvanAcN/XLPlainFlowLayout.git", :tag => s.version.to_s }
 s.social_media_url = 'http://weibo.com/zxliang7'
 
 s.ios.deployment_target = '8.0'
